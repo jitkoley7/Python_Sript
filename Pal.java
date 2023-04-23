@@ -1,5 +1,6 @@
 class Pal
 {
+	// check the number is palendrom or not
 	public static void main(String[] args) 
 	{
 		int num2=323;
