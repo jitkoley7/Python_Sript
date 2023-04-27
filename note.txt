@@ -7,3 +7,4 @@ cat
 and 
 cow
 this is the new line
+this line from remote 
